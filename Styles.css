@@ -184,7 +184,7 @@ span { color:var(--main-color); }
     0%, 20% { content: 'MIAGE Student'; }
     21%, 40% { content: 'Full-Stack Developer'; }
     41%, 60% { content: 'Data Analyst'; }
-    61%, 80% { content: 'Python & java & PHP Enthusiast'; }
+    61%, 80% { content: 'Python & java Enthusiast'; }
     81%, 100% { content: 'Full-Stack Developer'; }
 }
 @keyframes typing {
